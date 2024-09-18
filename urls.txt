@@ -1,3 +1,3 @@
-http://backend.course/DemonBL
+http://backend.course#DemonBL
 http://backend.course?name=%22%D0%A5%D0%BE%D0%BF%D1%82%D1%96%D0%B9%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%22&github_name=%22DemonBL%22&group=%22%D0%A4%D0%95%D0%86-25%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
 https://bank.gov.ua/NBU_ovdp?json&val_code=UAH&date=10.09.2024
